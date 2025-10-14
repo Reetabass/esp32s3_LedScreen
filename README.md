@@ -51,13 +51,13 @@ This project includes or references code from:
 
 ---
 
-## ⚙️ Building the Project
+## Building the Project
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
-
+```bash
+  git clone https://github.com/<your-username>/<your-repo>.git
+  cd <your-repo>
+```
 2️. Add Arduino as a Managed Component
 ```bash
   idf.py add-dependency "espressif/arduino-esp32:*"
